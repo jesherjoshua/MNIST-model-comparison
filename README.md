@@ -17,6 +17,6 @@
 - **Note:** not all PRs will be accepted 
 
 ## References:
-	[Deng, L. (2012). The mnist database of handwritten digit images for machine learning research. IEEE Signal Processing Magazine, 29(6), 141–142.](http://yann.lecun.com/exdb/mnist/)
+	['Deng, L. (2012). The mnist database of handwritten digit images for machine learning research. IEEE Signal Processing Magazine, 29(6), 141–142.'](http://yann.lecun.com/exdb/mnist/)
 
 
